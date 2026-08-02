@@ -9,7 +9,7 @@ from utils.interface import (
 
 st.set_page_config(layout="wide")
 
-st.title("Mobility Assistive Device Detector")
+st.title("O' Emergency Assistive Device Detector")
 
 st.write("""
 Upload an image containing a mobility aid.
